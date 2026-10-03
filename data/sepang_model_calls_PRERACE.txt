@@ -1,0 +1,37 @@
+======================================================================
+  BAHRAIN GP AT SEPANG 2026 - PREDICTED RESULT  (if it stays dry)
+  22 drivers | 10,000 simulated races
+======================================================================
+ predicted_position driver            team  grid  win_%  top3_%  points_%  dnf_%  avg_stops
+                  1    HAM         Ferrari     2   21.2    70.9      89.1   10.8        2.7
+                  2    ANT        Mercedes     3    5.4    45.0      93.4    6.6        2.8
+                  3    VER Red Bull Racing     1   59.6    75.7      82.0   18.0        2.6
+                  4    HAD Red Bull Racing     8    6.2    38.1      85.0   15.0        2.6
+                  5    PIA         McLaren     6    0.9    12.8      87.7   12.2        2.7
+                  6    RUS        Mercedes     7    1.1    11.6      88.4   11.5        2.7
+                  7    NOR         McLaren     5    2.0    19.8      83.1   16.8        2.6
+                  8    LEC         Ferrari     4    3.3    25.0      79.6   20.3        2.6
+                  9    GAS          Alpine     9    0.0     0.2      77.2   16.1        2.6
+                 10    BOR            Audi    10    0.0     0.1      72.1   12.6        2.7
+                 11    COL          Alpine    21    0.0     0.0      51.9   11.5        2.7
+                 12    LAW    Racing Bulls    11    0.0     0.0      49.8   11.3        2.7
+                 13    LIN    Racing Bulls    22    0.0     0.0      10.7    6.6        2.8
+                 14    SAI        Williams    13    0.0     0.0      22.5   19.2        2.6
+                 15    HUL            Audi    15    0.0     0.0       2.9   13.2        2.7
+                 16    ALO    Aston Martin    12    0.0     0.0      12.3   41.3        2.3
+                 17    BEA    Haas F1 Team    16    0.0     0.0       2.2   15.8        2.6
+                 18    OCO    Haas F1 Team    17    0.0     0.0       1.3   11.2        2.7
+                 19    STR    Aston Martin    14    0.0     0.0       6.1   44.4        2.2
+                 20    ALB        Williams    18    0.0     0.0       0.1   23.8        2.5
+                 21    BOT        Cadillac    19    0.0     0.0       0.0   38.1        2.4
+                 22    PER        Cadillac    20    0.0     0.0       0.0   39.0        2.3
+
+  Place penalties: HAD -5, COL -15
+  Back of the grid: LIN
+
+======================================================================
+  THE MODEL'S CALLS
+======================================================================
+  1. Winner:   VER  (60% of races)
+  2. Podium:   VER (76%), HAM (71%), ANT (45%)
+  3. Stops for the winner:  3  (2 stops 11%, 3 stops 87%, 4 stops 2%)

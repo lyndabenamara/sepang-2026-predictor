@@ -1,0 +1,23 @@
+P,driver,status,time_s,speed_trap
+1,VER,reached Q3,95.13,306.0
+2,HAM,reached Q3,95.428,300.0
+3,HAD,reached Q3,95.558,310.0
+4,ANT,reached Q3,95.631,305.0
+5,LEC,reached Q3,95.666,311.0
+6,NOR,reached Q3,95.757,310.0
+7,PIA,reached Q3,95.762,313.0
+8,RUS,reached Q3,95.871,309.0
+9,GAS,reached Q3,96.41,319.0
+10,BOR,reached Q3,96.814,314.0
+11,LAW,reached Q2,97.023,325.0
+12,ALO,reached Q2,97.22,305.0
+13,SAI,reached Q2,97.527,311.0
+14,STR,reached Q2,97.566,305.0
+15,COL,reached Q1,97.179,320.0
+16,LIN,reached Q1,97.883,313.0
+17,HUL,reached Q1,97.97,309.0
+18,BEA,reached Q1,97.98,319.0
+19,OCO,reached Q1,98.233,318.0
+20,ALB,reached Q1,98.6,307.0
+21,BOT,reached Q1,98.611,327.0
+22,PER,reached Q1,98.933,322.0
